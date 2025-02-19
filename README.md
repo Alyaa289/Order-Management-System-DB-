@@ -17,7 +17,11 @@ This project is a **Cafeteria Order Management System** built using **MySQL**. I
 
 ## 📂 Project Structure
  📄 database_schema.sql (Tables creation)
+ 
  📄 stored_procedures.sql (Stored Procedures)
+ 
  📄 functions.sql (Functions like GetTotalSpent)
+ 
  📄 views.sql (Views for better query management)
+ 
  📄 README.md (Project documentation)
